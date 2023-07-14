@@ -1,0 +1,3 @@
+
+
+ mongoimport -d wcc -c postcodes --type csv --file ukpostcodes.csv --headerline
