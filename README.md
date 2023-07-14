@@ -16,6 +16,7 @@
 - Auditing logging for Update and distance calculation APIs
 - Update Postcodes
 - Spring Security / Authentication
+- Postcode validations using regex, only valid UK postal codes will work 
 
 ### Troubleshooting
 Use ```mvn clean install``` in case of any missing libraries
