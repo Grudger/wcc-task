@@ -9,7 +9,7 @@
 6. Now that setup is done, make sure that you have Java 17 and latest version of maven installed
 7. Browse a terminal to project directory and use ```mvn package``` to generate a jar file
 8. Use ```java - jar assessment-0.0.1-SNAPSHOT.jar``` to run the application.
-9. After the jar runs successfully, browse to ```http://localhost:8080/swagger-ui/index.html``` to view all the API calls
+9. After the jar runs successfully, browse to ```http://localhost:8080/swagger-ui/index.html``` to view all the API calls, you can sign in with ```wccUser``` and ```nimda```
 
 ## Bonus Features
 - Unit Tests
